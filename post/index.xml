@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Jordan Kevin Buwa Mbouobda</title>
+    <link>https://dataprofessor.github.io/Ken_Portfolio_2/post/</link>
+    <description>Recent content in Projects on Jordan Kevin Buwa Mbouobda</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://dataprofessor.github.io/Ken_Portfolio_2/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Deep Transfer Learning for Classification of Breast Cancer</title>
+      <link>https://dataprofessor.github.io/Ken_Portfolio_2/post/dtl_breast_cancer/</link>
+      <pubDate>Fri, 21 Jul 2023 12:00:00 -0500</pubDate>
+      
+      <guid>https://dataprofessor.github.io/Ken_Portfolio_2/post/dtl_breast_cancer/</guid>
+      <description>Deep Transfer Learning for Classification of Breast Cancer By Jordan Kevin Buwa Mbouobda Supervision: Dr. Prudence Djagba Introduction Deep transfer learning is a machine learning technique that leverages knowledge from one task to improve the performance on a different but related task. In the context of breast cancer classification, algorithms are used to distinguish between cancerous and non-cancerous tumors in medical images such as mammograms.
+According to a study conducted by Hyuna Sung, Jacques Ferlay, and other scholars in 2020, there were 19.</description>
+    </item>
+    
+    <item>
+      <title>Machine Learning algorithms</title>
+      <link>https://dataprofessor.github.io/Ken_Portfolio_2/post/real_world_mcmodels/</link>
+      <pubDate>Thu, 02 Mar 2023 12:00:00 -0500</pubDate>
+      
+      <guid>https://dataprofessor.github.io/Ken_Portfolio_2/post/real_world_mcmodels/</guid>
+      <description>Real-world examples of various types of Markov Chain models in Machine Learning By Jordan Kevin Buwa Mbouobda Supervision: Dr. Chris Wood Introduction Markov Chains are powerful models that can capture sequential dependencies in data. They have a wide range of applications in various fields, including Machine Learning. In this presentation, we will explore some real-world examples of Markov Chain models in Machine Learning.
+Markov Decision Process To understand the Markov decision process, let&amp;rsquo;s consider you&amp;rsquo;re playing with a die.</description>
+    </item>
+    
+  </channel>
+</rss>
